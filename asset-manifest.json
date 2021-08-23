@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/new-project/static/css/main.966639a9.chunk.css",
+    "main.js": "/new-project/static/js/main.09e1df28.chunk.js",
+    "main.js.map": "/new-project/static/js/main.09e1df28.chunk.js.map",
+    "runtime-main.js": "/new-project/static/js/runtime-main.21cf7892.js",
+    "runtime-main.js.map": "/new-project/static/js/runtime-main.21cf7892.js.map",
+    "static/js/2.021cdabd.chunk.js": "/new-project/static/js/2.021cdabd.chunk.js",
+    "static/js/2.021cdabd.chunk.js.map": "/new-project/static/js/2.021cdabd.chunk.js.map",
+    "static/js/3.08adb793.chunk.js": "/new-project/static/js/3.08adb793.chunk.js",
+    "static/js/3.08adb793.chunk.js.map": "/new-project/static/js/3.08adb793.chunk.js.map",
+    "index.html": "/new-project/index.html",
+    "static/css/main.966639a9.chunk.css.map": "/new-project/static/css/main.966639a9.chunk.css.map",
+    "static/js/2.021cdabd.chunk.js.LICENSE.txt": "/new-project/static/js/2.021cdabd.chunk.js.LICENSE.txt",
+    "static/media/logIn.css": "/new-project/static/media/imglogin.458bfe07.jpg",
+    "static/media/signUp.css": "/new-project/static/media/imgsignup.f57e6e17.jpg",
+    "static/media/listRoom.css": "/new-project/static/media/listroom.78d5da03.jpg",
+    "static/media/App.css": "/new-project/static/media/room finder background image.4acf74a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21cf7892.js",
+    "static/js/2.021cdabd.chunk.js",
+    "static/css/main.966639a9.chunk.css",
+    "static/js/main.09e1df28.chunk.js"
+  ]
+}
