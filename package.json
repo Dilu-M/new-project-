@@ -2,7 +2,7 @@
   "name": "room",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Dilu-M.github.io/room_finder",
+  "homepage": "https://Dilu-M.github.io/new-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
